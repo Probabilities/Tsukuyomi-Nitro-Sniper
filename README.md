@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-  <a href="https://deluxeservice.sellix.io">
+  <a href="https://lunarservices.cc/shop">
     <img src="https://i.imgur.com/O2pVKo3.png" alt="Logo">
   </a>
   
@@ -11,9 +11,9 @@
      The fastest nitro sniper on discord. Previously was sold but source code has recently been released to the public. 
     <br />
     <br />
-    <a href="https://discord.gg/deluxe-services">Discord & Support Server</a>
+    <a href="https://lunarservices.cc/discord">Discord & Support Server</a>
     .
-    <a href="https://sellix.io">Sellix Website</a>
+    <a href="https://lunarservices.cc/shop">Sellix Store</a>
   </p>
 </div>
 
